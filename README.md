@@ -1,5 +1,5 @@
 # NER
-命名实体识别
+基于BI-LSTM的命名实体识别
 
 运行环境：tensorflow2.0以上
 
